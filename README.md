@@ -6,7 +6,7 @@ Welcome to my personal Data Science project portfolio. Below you'll find a curat
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-- 📈 [Netflix Dataset Analysis](https://github.com/nmyalet90/netflix-eda)  
+- 📈 [Netflix Dataset Analysis](https://github.com/nmyalet90/Netflix-Titles-EDA)  
   Exploratory analysis of Netflix titles, including genre distribution, release trends, and visualizations with pandas and seaborn.
 
 
