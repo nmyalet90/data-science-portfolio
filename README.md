@@ -9,6 +9,9 @@ Welcome to my personal Data Science project portfolio. Below you'll find a curat
 - 📈 [Netflix Dataset Analysis](https://github.com/nmyalet90/Netflix-Titles-EDA)  
   Exploratory analysis of Netflix titles, including genre distribution, release trends, and visualizations with pandas and seaborn.
 
+- 📈 [Global COVID-19 Dataset Analysis](https://github.com/nmyalet90/Covid-stats-EDA)  
+  Exploratory Data Analysis (EDA) on global COVID-19 datasets, including confirmed cases and deaths.
+
 
 ---
 
