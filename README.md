@@ -7,10 +7,13 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 Welcome to my personal Data Science project portfolio. Here you’ll find a curated collection of my public projects organized by topic.  
 These projects showcase my skills in **SQL, data analysis, machine learning, and data visualization** using tools like Python, scikit-learn, pandas, SQL, Excel, and Tableau.
+
+
 ---
 
 ## 🗃️ SQL and Databases
