@@ -10,8 +10,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-Welcome to my personal Data Science project portfolio. Here you’ll find a curated collection of my public projects organized by topic.  
-These projects showcase my skills in **SQL, data analysis, machine learning, and data visualization** using tools like Python, scikit-learn, pandas, SQL, Excel, Tableau and Power BI.
+Welcome to my personal Data Science project portfolio. Here you’ll find a curated collection of my public projects organized by topic. These projects showcase my skills in **SQL, data analysis, machine learning, and data visualization** using tools like Python, scikit-learn, pandas, SQL, Excel, Tableau and Power BI.
 
 
 ---
