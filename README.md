@@ -8,8 +8,8 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-Welcome to my personal Data Science project portfolio.  
-Here you’ll find a curated collection of my public projects organized by topic.  
+
+Welcome to my personal Data Science project portfolio. Here you’ll find a curated collection of my public projects organized by topic.  
 These projects showcase my skills in **SQL, data analysis, machine learning, and data visualization** using tools like Python, scikit-learn, pandas, SQL, Excel, and Tableau.
 ---
 
@@ -52,6 +52,7 @@ These projects showcase my skills in **SQL, data analysis, machine learning, and
 
 - 🔢 [MNIST Digit Classification](https://github.com/nmyalet90/MNIST-Classification)  
   Classifying handwritten digits from the MNIST dataset using support vector machines (SVM) and evaluating model performance.
+
 
 ---
 
