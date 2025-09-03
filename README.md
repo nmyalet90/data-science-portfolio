@@ -39,11 +39,6 @@ Welcome to my personal Data Science project portfolio. Here you’ll find a cura
 
 ---
 
-## 📊 Visualizations
-
-
----
-
 ## 🧠 Machine Learning
 
 - 🏠 [California Housing Regression](https://github.com/nmyalet90/california-housing-linear-regression)  
