@@ -24,6 +24,9 @@ Welcome to my personal Data Science project portfolio. Here you’ll find a cura
 
 - 🏥 [Hospital Database Project](https://github.com/nmyalet90/Hospital-DB)  
   Relational database for managing hospital data including patients, doctors, appointments, and treatments. Includes various SQL queries for data extraction and reporting.
+  
+- 📡 [Observatory Database Project](https://github.com/nmyalet90/Observatorio)  
+  Relational database for an astronomical observatory. The system is built on MySQL/MariaDB and features an inheritance model for classifying celestial bodies, robust transactional integrity, and deterministic scientific functions.
 
 
 ---
@@ -49,6 +52,14 @@ Welcome to my personal Data Science project portfolio. Here you’ll find a cura
 
 - 🔢 [MNIST Digit Classification](https://github.com/nmyalet90/MNIST-Classification)  
   Classifying handwritten digits from the MNIST dataset using support vector machines (SVM) and evaluating model performance.
+  
+- 🎵 [Music recommender - KNN model](https://github.com/nmyalet90/Recomendador-de-Musica)  
+  Music recommendation system based on numerical song characteristics using KNN (Nearest Neighbors) with a cosine metric.  
+  
+- 🎵 [Music recommender - Naive Bayes & Neural Networks ](https://github.com/nmyalet90/Recomendador-de-Musica-2)  
+  Music recommendation system based on numerical song characteristics using Naive Bayes & Neural Networks models. 
+  
+  
 
 
 ---
