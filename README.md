@@ -10,7 +10,16 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-Welcome to my personal Data Science project portfolio. Here you’ll find a curated collection of my public projects organized by topic. These projects showcase my skills in **SQL, data analysis, machine learning, and data visualization** using tools like Python, scikit-learn, pandas, SQL, Excel, Tableau and Power BI.
+Welcome to my personal Data Science portfolio. Here you’ll find a curated collection of projects focused on **SQL, data analysis, dashboards, machine learning, and data visualization**.
+
+These projects showcase my experience using **Python, SQL Server, Excel, Power BI, Tableau**, and machine learning libraries such as **scikit-learn**, applied to real-world and business-oriented problems.
+
+
+### 🔍 What you’ll find in this portfolio
+- End-to-end **SQL database projects** with KPI analysis  
+- **Interactive dashboards** for business and operational insights  
+- **Exploratory Data Analysis (EDA)** on real datasets  
+- **Machine Learning models** for prediction and classification  
 
 
 ---
@@ -27,6 +36,14 @@ Welcome to my personal Data Science project portfolio. Here you’ll find a cura
   
 - 📡 [Observatory Database Project](https://github.com/nmyalet90/Observatorio)  
   Relational database for an astronomical observatory. The system is built on MySQL/MariaDB and features an inheritance model for classifying celestial bodies, robust transactional integrity, and deterministic scientific functions.
+
+
+---
+
+## 📊 Dashboards & Data Visualization
+
+- 📊 [Superstore Sales Dashboard](https://github.com/nmyalet90/Sales-dashboard-excel)  
+  Interactive superstore sales dashboard built in Excel using PivotTables, slicers, and map charts, focused on **sales performance, regional trends, and product analysis**.
 
 
 ---
