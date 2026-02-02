@@ -42,11 +42,14 @@ These projects showcase my experience using **Python, SQL Server, Excel, Power B
 
 ## 📊 Dashboards & Data Visualization
 
-- 📊 [Superstore Sales Dashboard](https://github.com/nmyalet90/Sales-dashboard-excel)  
+- 📊 [Superstore Sales Dashboard - Excel](https://github.com/nmyalet90/Sales-dashboard-excel)  
   Interactive superstore sales dashboard built in Excel using PivotTables, slicers, and map charts, focused on **sales performance, regional trends, and product analysis**.
 
-- 📊 [Northwind Sales Analysis](https://github.com/nmyalet90/northwind-sales-analysis)  
+- 📊 [Northwind Sales Analysis - SQL + Power BI](https://github.com/nmyalet90/northwind-sales-analysis)  
   End-to-end sales and logistics analysis using **SQL Server and Power BI**, featuring interactive dashboards with KPIs and slicers to explore **sales performance, product categories, customers, and geographic distribution**.
+
+- 📊 [Online Retail Forecasting Dashboard – ML + Tableau (work in progress)](https://github.com/nmyalet90/online-retail-forecast-tableau)
+Interactive Tableau dashboard based on the Online Retail (UK) dataset, combining historical analysis and machine learning forecasts of monthly revenue. The project integrates Python (Pandas + Scikit-learn) for data cleaning, feature engineering, and time-series prediction, and Tableau for visual exploration of real vs. predicted revenue by country and over time.
 
 
 ---
