@@ -29,8 +29,7 @@ These projects showcase my experience using **Python, SQL Server, Excel, Power B
 - 🍪 [CookieFactoryDB](https://github.com/nmyalet90/CookieFactoryDB) 
   A SQL Server project simulating the operations of a cookie factory.  
   Includes **warehouse, production, sales, and logistics modules**, with **KPI views** and **analysis queries**.  
-  Also features an **Excel dashboard** connected to SQL Server for KPI reporting.
-
+ 
 - 🏥 [Hospital Database Project](https://github.com/nmyalet90/Hospital-DB)  
   Relational database for managing hospital data including patients, doctors, appointments, and treatments. Includes various SQL queries for data extraction and reporting.
   
